@@ -8,7 +8,6 @@
     <script src="js/index.js"></script>
 </head>
 <body>
-    
 <form action="processa/acao.php" method="post">
         <input type="button" onclick="AdicionaInput()" value="Adcionar Input"><br>
         <input type="submit" value="Enviar"/>
