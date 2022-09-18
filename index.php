@@ -5,16 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Teste</title>
-    <script type="text/javascript">
-        i=1;
-        function AdicionaInput()
-        {
-            var x=document.getElementById('Tabela').insertRow(0);
-            var y=x.insertCell(0);
-            y.innerHTML="<input type='text' name='A" + i + "'>";
-            i++;
-        }
-    </script>
+    <script src="js/index.js"></script>
 </head>
 <body>
     
