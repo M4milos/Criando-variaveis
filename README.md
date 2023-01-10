@@ -9,7 +9,7 @@ Teste manipulamento array $_POST
 <br>
 
 # Apresentação 
-<img src="https://github.com/M4milos/M4milos/blob/main/img/Apresenta%C3%A7%C3%A3o%202.png?raw=true">
+*******
 <br>
 
 Apresentação bruta, feita com o echo do php. 
